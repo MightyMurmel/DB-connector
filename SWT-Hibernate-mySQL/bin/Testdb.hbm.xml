@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 2.0//EN"
+    "http://hibernate.sourceforge.net/hibernate-mapping-2.0.dtd">
+
+<hibernate-mapping>
+    <class name="Test" table="Testdb">
+        <id name="id" column="uid" type="int">
+            <generator class="native"/>
+        </id>
+        <property name="Email" type="string" length="255"/>
+        <property name="Geburtstagsdatum" type="string" length="255"/>
+        <property name="Nachname" type="string" length="255"/>
+        <property name="Telefon" type="int" length="255"/>
+        <property name="Vorname" type="string" length="255"/>
+    </class>
+</hibernate-mapping>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/org.eclipse.swt"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="lib" path="C:/Users/bkese/.p2/pool/plugins/org.eclipse.core.databinding_1.6.0.v20160412-0910.jar" sourcepath="C:/Users/bkese/.p2/pool/plugins/org.eclipse.core.databinding.source_1.6.0.v20160412-0910.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bkese/.p2/pool/plugins/org.eclipse.core.databinding.beans_1.3.100.v20160509-1025.jar" sourcepath="C:/Users/bkese/.p2/pool/plugins/org.eclipse.core.databinding.beans.source_1.3.100.v20160509-1025.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bkese/.p2/pool/plugins/org.eclipse.core.databinding.observable_1.6.0.v20160511-1747.jar" sourcepath="C:/Users/bkese/.p2/pool/plugins/org.eclipse.core.databinding.observable.source_1.6.0.v20160511-1747.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bkese/.p2/pool/plugins/org.eclipse.core.databinding.property_1.6.0.v20160427-0852.jar" sourcepath="C:/Users/bkese/.p2/pool/plugins/org.eclipse.core.databinding.property.source_1.6.0.v20160427-0852.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bkese/.p2/pool/plugins/org.eclipse.jface.databinding_1.8.0.v20160420-2231.jar" sourcepath="C:/Users/bkese/.p2/pool/plugins/org.eclipse.jface.databinding.source_1.8.0.v20160420-2231.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bkese/.p2/pool/plugins/org.eclipse.equinox.common_3.8.0.v20160509-1230.jar" sourcepath="C:/Users/bkese/.p2/pool/plugins/org.eclipse.equinox.common.source_3.8.0.v20160509-1230.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bkese/.p2/pool/plugins/com.ibm.icu_56.1.0.v201601250100.jar" sourcepath="C:/Users/bkese/.p2/pool/plugins/com.ibm.icu.source_56.1.0.v201601250100.jar"/>
+	<classpathentry kind="lib" path="swing2swt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/bkese/Documents/libs/mysql-connector-java-5.1.40/mysql-connector-java-5.1.40-bin.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
